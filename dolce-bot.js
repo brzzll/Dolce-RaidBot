@@ -170,6 +170,7 @@ client.on(`messageCreate`,async (msg)=>{
             await msg.author.send({embeds:[
                 new EmbedBuilder()
                 .setTitle(`ERROR!!`)
+                .setColor(`#ec4346`)
                 .setDescription(`**YA HAY UN RAID EN CURSO!!**\n**${msg.author.username}** en este momento hay un raid en curso, por favor espera a que termine (maximo un minuto) :dolce_183~1:`)
             ]})
             return;
