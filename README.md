@@ -8,4 +8,4 @@ Réplica del raid bot de la comunidad de Dolce hecho en Javascript.
   - Luego de haber instalado NodeJS, ejecuta el archivo "setup.bat" para instalar los módulos necesarios.
   - Una vez instalado los módulos necesarios, ejecuta "start.bat" para encender el bot.
 - Video:
-  - 
+  - https://www.youtube.com/watch?v=8LFBxWxbHu0
