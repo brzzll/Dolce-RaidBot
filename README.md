@@ -10,3 +10,5 @@ Réplica del raid bot de la comunidad de Dolce hecho en Javascript.
 - Dónde puedo conseguir **ayuda** ?
   - En el servidor de **Z**en**X** ( **https://discord.gg/zCQ8jQ2GBf** o **https://dsc.gg/zenxcorpp** )
 - Video de presentación: https://www.youtube.com/watch?v=8LFBxWxbHu0
+
+- Si vas a usar los códigos, debes dar créditos.
